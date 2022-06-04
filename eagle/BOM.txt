@@ -1,0 +1,78 @@
+Partlist exported from C:/Users/Devon/OneDrive/projects/f408hs_control_board/eagle/F408HS_control.sch at 4/6/2022 4:26 PM
+
+Part  Value         Device         Package        Description                                                    MF MPN         OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+BZ1   BUZZER        BUZZER         BUZZER                                                                                                                                  
+C1    0.1uF         ECQU2A104      ECQU2A104                                                                                                                               
+C2    0.68uF        ECQUL2A648KL   ECQU2A684      Panasonic ECQUL Polyester Film Capacitor, 275V ac, ±10%, 680nF                                                           
+C3    1000uF        CPOL-EUB45181B B45181B        POLARIZED CAPACITOR, European symbol                                                               2          C          
+C4    10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C5    10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C6    10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C7    10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C8    10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C10   10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C11   1uF           C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+C12   10nF          C-EUC0805      C0805          CAPACITOR, European symbol                                                                         88         C          
+CN1   SC25-10WS     SC25-10WS      SC25-10WS                                                                                                                               
+CN2   HEADER16      HEADER16       PAK100/2500-16                                                                                                                          
+D1    SD103CWS-7-F  1N4004         DO41-10        DIODE                                                                                              82                    
+D2    SD103CWS-7-F  1N4004         DO41-10        DIODE                                                                                              82                    
+D3                  DIODE-SOD106-W SOD106-W       DIODE                                                                                              0                     
+D4    V10241U       TVS            E14-S1         Panasonic "ZNR" Transient/Surge Absorbers"                                                                               
+D5    V14511U       TVS            E14-S1         Panasonic "ZNR" Transient/Surge Absorbers"                                                                               
+FUSE1 3.15A         FUSE           FUSE                                                                                                                                    
+IC1   M34509G4FP    M34509G4FP     SSOP24                                                                                                                                  
+J4    0R            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+J5    0R            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+LED1  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LED2  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LED3  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LED4  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LED5  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LED6  LED_PTH_HORIZ LED_PTH_HORIZ  LED_HORIZ                                                                                                                               
+LND1  LND           LND            LND                                                                                                                                     
+LND2  LND           LND            LND                                                                                                                                     
+Q1                  PNPSOT23       SOT-23         PNP TRANSISTOR                                                    DSS20200L-7 unknown    25R4554   0                     
+Q2    MMBR536       MMBR536        SOT23                                                                                                                                   
+R1    100R          R-EU_0204/7    0204/7         RESISTOR, European symbol                                                                          79         R          
+R2    100R          R-EU_0204/7    0204/7         RESISTOR, European symbol                                                                          79         R          
+R3    910K          R-EU_0204/7    0204/7         RESISTOR, European symbol                                                                          79         R          
+R4    1K6           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R5    7K5           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R6    10K           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R7    10K           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R8    1K5           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R9    8K2           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R10   5K6           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R11   7K5           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R13   1K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R14   8K2           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R15   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R16   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R17   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R18   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R19   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R20   2K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R21   1K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R22   1K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R23   10K           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R25   130K          R-EU_R0805     R0805          RESISTOR, European symbol                                                                          86         R          
+R26   130K          R-EU_R0805     R0805          RESISTOR, European symbol                                                                          86         R          
+R27   130K          R-EU_R0805     R0805          RESISTOR, European symbol                                                                          86         R          
+R28   18K           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R29   1K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R30   750R          R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R31   750R          R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R32   750R          R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R33   750R          R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R34   1K            R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+R41   5K6           R-EU_M0805     M0805          RESISTOR, European symbol                                                                          45         R          
+SCR1  BCR1AM        BCR1AM         TO92                                                                                                                                    
+SCR2  BCR1AM        BCR1AM         TO92                                                                                                                                    
+SCR3  TMG3D60C      TIC225S        TO220DS        TRIAC                                                                                              0                     
+SW1   EVQ11         EVQ11          EVQ11                                                                                                                                   
+SW2   EVQ11         EVQ11          EVQ11                                                                                                                                   
+SW3   EVQ11         EVQ11          EVQ11                                                                                                                                   
+SW5   EVQ11         EVQ11          EVQ11                                                                                                                                   
+X1    4MHz          CSTLS_G        CSTLS_G8       Ceramic resonator 2.00 to 10.00 MHz                                                                                      
+ZD1   DDZ4V7ASF-7   1N821          DO35Z10        Reference DIODE                                                                                    1                     
